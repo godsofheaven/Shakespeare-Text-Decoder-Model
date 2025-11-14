@@ -1,0 +1,32 @@
+Training Summary (from logs/training_log_final.json)
+====================================================
+
+- Final Step: 1700
+- Final Loss: 0.094349
+
+Step-wise Metrics (every 100 steps)
+-----------------------------------
+- Step 0100 | Loss: 8.627984 | LR: 3.0000e-05 | Tokens/sec: 640,857.68 | Time/step: 0.025566 s
+- Step 0200 | Loss: 6.139783 | LR: 6.0000e-05 | Tokens/sec: 730,760.44 | Time/step: 0.022420 s
+- Step 0300 | Loss: 4.781182 | LR: 9.0000e-05 | Tokens/sec: 852,129.77 | Time/step: 0.019227 s
+- Step 0400 | Loss: 4.050571 | LR: 1.2000e-04 | Tokens/sec: 749,582.52 | Time/step: 0.021858 s
+- Step 0500 | Loss: 3.342267 | LR: 1.5000e-04 | Tokens/sec: 726,804.29 | Time/step: 0.022543 s
+- Step 0600 | Loss: 2.671492 | LR: 1.8000e-04 | Tokens/sec: 825,389.68 | Time/step: 0.019850 s
+- Step 0700 | Loss: 2.020290 | LR: 2.1000e-04 | Tokens/sec: 784,926.25 | Time/step: 0.020873 s
+- Step 0800 | Loss: 1.354819 | LR: 2.4000e-04 | Tokens/sec: 791,411.83 | Time/step: 0.020702 s
+- Step 0900 | Loss: 0.772771 | LR: 2.7000e-04 | Tokens/sec: 822,313.74 | Time/step: 0.019924 s
+- Step 1000 | Loss: 0.398528 | LR: 3.0000e-04 | Tokens/sec: 856,510.44 | Time/step: 0.019129 s
+- Step 1100 | Loss: 0.228469 | LR: 3.3000e-04 | Tokens/sec: 844,678.48 | Time/step: 0.019397 s
+- Step 1200 | Loss: 0.160448 | LR: 3.6000e-04 | Tokens/sec: 771,079.59 | Time/step: 0.021248 s
+- Step 1300 | Loss: 0.133567 | LR: 3.9000e-04 | Tokens/sec: 851,634.06 | Time/step: 0.019238 s
+- Step 1400 | Loss: 0.124452 | LR: 4.2000e-04 | Tokens/sec: 862,335.76 | Time/step: 0.018999 s
+- Step 1500 | Loss: 0.112699 | LR: 4.5000e-04 | Tokens/sec: 689,064.06 | Time/step: 0.023777 s
+- Step 1600 | Loss: 0.101688 | LR: 4.8000e-04 | Tokens/sec: 880,089.76 | Time/step: 0.018616 s
+- Step 1700 | Loss: 0.094349 | LR: 5.1000e-04 | Tokens/sec: 869,492.58 | Time/step: 0.018843 s
+
+Notes
+-----
+- Target loss (< 0.099999) achieved at step 1700.
+- Logs were generated via JSON during training and summarized here for quick reference.
+
+
